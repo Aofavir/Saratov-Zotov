@@ -3,6 +3,6 @@ def main():
 
 
 print(123)
-print('branch')
+print('branch', 'test')
 if __name__ == '__main__':
     main()
